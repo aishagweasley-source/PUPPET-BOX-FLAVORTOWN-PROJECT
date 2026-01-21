@@ -1,2 +1,2 @@
 # PUPPET-BOX-FLAVORTOWN-PROJECT
-This is a my first flavortown project. i will make a mini robot from a game called fnaf. im going to make a mini puppet box robot inspired by a game called five nights at freddys. 
+This is a my first flavortown project. this project is inspired by a game from fnaf. its a simple project where im going to make a mini robot of the marrionnete puppet(charlie) from fnaf. how it works is that i will be using an ultrasonic sensor to measure the distance, and servos as arms to do a scare reaction for the puppt.
